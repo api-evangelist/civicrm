@@ -64,5 +64,24 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-CiviCRM is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://civicrm.org/
+CiviCRM is an open-source constituent relationship management (CRM) platform designed for non-profit, civic sector, and advocacy organizations. It provides a web-based suite of tools for managing contacts, fundraising, events, memberships, email communications, and case management, integrating with popular content management systems like WordPress, Joomla, and Drupal. The platform is community-driven, extensible via extensions, and supports multilingual deployments, helping organizations engage supporters and streamline operations.
+
+**Areas:** Open Source · CRM · Nonprofit · Community · PHP · Extensions
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://civicrm.org/)
+- [Documentation](https://docs.civicrm.org/)
+- [Support](https://civicrm.org/help)
+- [Blog](https://civicrm.org/blog)
+- [Security](https://civicrm.org/security)
+- [Privacy policy](https://civicrm.org/about/privacy-policy)
+- [GitHub](https://github.com/civicrm/)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/civicrm/](https://apis.io/providers/civicrm/).
